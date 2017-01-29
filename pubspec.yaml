@@ -1,0 +1,13 @@
+name: REPLACE_ME
+description: >
+  A sample library.
+version: 0.1.0
+authors:
+  - Matan Lurey <matanl@google.com>
+homepage: https://github.com/matanlurey/REPLACE_ME
+
+environment:
+  sdk: ">=1.8.0 <2.0.0"
+
+dev_dependencies:
+  test: # REPLACE_ME
